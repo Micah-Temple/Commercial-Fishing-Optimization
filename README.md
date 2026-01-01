@@ -1,0 +1,1 @@
+Analyzed 1.6 million real-world Norwegian commercial fishing records (2002–2019) to optimize fleet composition, trawling locations, and optimal strategy. Cleaned and engineered vessel, catch, ocean, and climate data to identify profit-maximizing specifications Presented clear, decision-oriented insights and visualizations.
